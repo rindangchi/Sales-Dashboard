@@ -27,6 +27,8 @@ Global superstore sales data containing 9992 rows, with columns sales value (in 
 
 ## Data Visualization
 
+Tableau Link: [Sales Dashboard](https://public.tableau.com/app/profile/rindangcahyaning/viz/SalesDashboard_16741907212560/SalesOverview)
+
 ![Sales Overview (5)](https://github.com/rindangchi/Sales-Dashboard/assets/10241058/2c8a86a2-7482-4cab-ac0e-7b39aeb5c240)
 
 
