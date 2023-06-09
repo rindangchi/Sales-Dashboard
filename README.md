@@ -31,5 +31,3 @@ Global superstore sales data containing 9992 rows, with columns sales value (in 
 
 
 
-
-
